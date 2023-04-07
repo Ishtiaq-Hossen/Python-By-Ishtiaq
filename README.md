@@ -1,7 +1,4 @@
 # Python-By-Ishtiaq
 
-<img
-  src="https://drive.google.com/file/d/1WE1k0NHWIEigYrHArNlmYKXJHokl02Un/view?usp=sharing"
-  alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+![Alt text](![338381744_900036477887105_9068127977153328578_n](https://user-images.githubusercontent.com/76255100/230664934-363118f4-1dea-4312-8614-9aa88b3bfcd0.jpg)
+)
