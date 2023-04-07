@@ -1,4 +1,5 @@
 # Python Fundamentals For Everyone
 
 <p align="center">
-![Python Fundamentals For Everyone]([https://user-images.githubusercontent.com/76255100/230665270-0ad938a1-66d6-42e4-af3e-035c13230f41.jpg](https://user-images.githubusercontent.com/76255100/230665270-0ad938a1-66d6-42e4-af3e-035c13230f41.jpg))
+<img src="https://user-images.githubusercontent.com/76255100/230665514-7589e00e-6322-4895-beae-e5a673e0185b.jpg" style="width:600px; height:400px;" />
+</p>
